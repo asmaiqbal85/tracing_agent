@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/d7588f09-52a2-4648-ab3d-a241252eee0f)
+![image](https://github.com/user-attachments/assets/e287e295-d958-4a83-8d39-d66c73dfe737)
+
+
 
 
 
@@ -19,3 +21,4 @@ uv add  "langsmith[openai-agents]"
 uv run filename
 
 ![image](https://github.com/user-attachments/assets/b78c6780-1a44-40d1-a9bd-b797e5c5915b)
+
